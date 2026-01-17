@@ -1,61 +1,64 @@
-# Kathir 👋  
-**Data Engineer | MSc Data Science | UK**
+## Hi there 👋
 
-I build **reliable, analytics-ready data pipelines** with a strong focus on  
-**SQL-first modelling, ETL/ELT workflows, and data quality**.
+# Kathir 👋  
+**Data Analyst | MSc Data Science | UK**
+
+I turn complex data into **clear, actionable insights** using a **SQL-first analytics approach**, supported by robust data modelling, reliable pipelines, and strong data quality practices.
 
 🌍 Based in the UK  
-💼 Open to **Data Engineer / Analytics Engineer** roles  
+💼 Open to **Data Analyst / Analytics Analyst / Risk & Operations Analyst** roles  
 
 ---
 
 ## 🧠 What I focus on
-- Designing clean **analytics schemas** (facts, dimensions, marts)
-- Building **repeatable ETL/ELT pipelines**
-- Writing **clear, performant SQL**
-- Adding **data quality checks** so bad data fails fast
-- Documenting transformations so teams trust the numbers
+- Translating **business questions into analytical frameworks and KPIs**
+- Writing **clear, performant SQL** for exploration, reporting, and deep dives
+- Building **analytics-ready datasets** (facts, dimensions, marts)
+- Performing **cohort, funnel, retention, and trend analysis**
+- Ensuring **data quality and consistency** so insights are decision-ready
+- Communicating findings clearly to **technical and non-technical stakeholders**
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages**
-- SQL 
-- Python
 
-**Data Engineering**
-- ETL / ELT pipelines
-- dbt (models, tests, docs)
-- Airflow (DAGs, scheduling)
+### Analytics & Querying
+- SQL (CTEs, window functions, optimisation)
+- Python (pandas, NumPy)
 
-**Data & Ops**
+### Analytics Engineering (to support analysis)
+- dbt (models, tests, documentation)
+- Airflow (scheduled pipelines)
+- AWS S3, Redshift / Athena (foundations)
+
+### Tools & Workflow
 - Pandas
-- Docker
 - Git
+- Docker (reproducible analysis environments)
 - Linux (basic)
-- AWS S3 (storage basics)
 
 ---
 
-## 📂 Featured Projects (in progress)
+## 📂 Featured Analytics Projects (in progress)
 > Repositories will be added as projects are completed.
 
-- **End-to-End ELT Pipeline**  
-  Raw → staging → marts, reproducible Docker setup, data quality checks
+- **End-to-End Analytics Pipeline**  
+  Raw → staging → analytics marts with documented metrics and data quality checks
 
 - **SQL Business Case Studies**  
-  Cohorts, funnels, retention analysis, window functions, query optimisation
+  Cohort analysis, funnels, retention, KPI tracking, and query optimisation
 
-- **Streaming Data Pipeline**  
-  Event ingestion, consumers, idempotency, near real-time outputs
+- **Event & Behavioural Analysis**  
+  Event-based datasets analysed for trends, anomalies, and user behaviour patterns
 
 ---
 
 ## 🧩 How I work
-- Start with **business questions**, then design the data model
-- Prefer **simple, readable SQL** over clever queries
-- Automate pipelines so they are **reliable and repeatable**
-- Treat data quality as a **first-class feature**
+- Start with the **business problem**, not the tool
+- Prefer **simple, readable SQL** over over-engineered solutions
+- Validate data before trusting outputs
+- Focus on **insights that drive action**, not just dashboards
+- Document assumptions so stakeholders trust the numbers
 
 ---
 
@@ -66,4 +69,4 @@ I build **reliable, analytics-ready data pipelines** with a strong focus on
 
 ---
 
-⭐ *Always learning. Always improving pipelines.*
+⭐ *Always learning. Always improving analysis.*
