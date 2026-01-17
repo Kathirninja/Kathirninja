@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Kathir 👋  
 **Data Analyst | MSc Data Science | UK**
 
