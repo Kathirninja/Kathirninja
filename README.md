@@ -1,62 +1,72 @@
-# Kathir 👋  
-**Data Analyst | MSc Data Science | UK**
+# Kathir 👋
+**Data Engineer | MSc Data Science | UK**
 
-I turn complex data into **clear, actionable insights** using a **SQL-first analytics approach**, supported by robust data modelling, reliable pipelines, and strong data quality practices.
+I design and operate **production-grade data platforms** that turn raw, unreliable data into
+**trusted, analytics-ready datasets**. My work focuses on **scalable ETL pipelines, data modelling,
+and data quality**, with a strong emphasis on **correctness, reprocessing safety, and long-term
+maintainability**.
 
-🌍 Based in the UK  
-💼 Open to **Data Analyst / Analytics Analyst / Risk & Operations Analyst** roles  
+🌍 UK-based  
+💼 Open to **Data Engineer / Analytics Engineer / Platform Data Engineer** roles
 
 ---
 
 ## 🧠 What I focus on
-- Translating **business questions into analytical frameworks and KPIs**
-- Writing **clear, performant SQL** for exploration, reporting, and deep dives
-- Building **analytics-ready datasets** (facts, dimensions, marts)
-- Performing **cohort, funnel, retention, and trend analysis**
-- Ensuring **data quality and consistency** so insights are decision-ready
-- Communicating findings clearly to **technical and non-technical stakeholders**
+- Designing and owning **end-to-end ETL / ELT pipelines** (ingestion → transformation → consumption)
+- Building **analytics-ready data models** (facts, dimensions, marts) that scale with business needs
+- Writing **performant, cost-aware SQL** for large datasets
+- Handling **late-arriving data, duplicates, schema drift, and backfills**
+- Implementing **data validation, reconciliation, and auditability**
+- Supporting analytics and reporting with **reliable, well-defined datasets**
+- Making **engineering trade-offs** between correctness, performance, and cost
+- Communicating data guarantees and limitations to **technical and non-technical stakeholders**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Analytics & Querying
-- SQL (CTEs, window functions, optimisation)
-- Python (pandas, NumPy)
+### Data Engineering & Processing
+- **SQL** (CTEs, window functions, optimisation, cost-aware design)
+- **Python** (pipeline tooling, validation, automation)
 
-### Analytics Engineering (to support analysis)
-- dbt (models, tests, documentation)
-- Airflow (scheduled pipelines)
-- AWS S3, Redshift / Athena (foundations)
+### Data Platforms & Orchestration
+- **AWS** (S3, Redshift, Athena)
+- **Apache Airflow** (DAG design, retries, alerting, re-runs)
+
+### Data Modelling & Analytics Engineering
+- Dimensional modelling (**facts & dimensions**)
+- **dbt** (models, tests, documentation)
+- Incremental models & backfill-safe transformations
 
 ### Tools & Workflow
-- Pandas
 - Git
-- Docker (reproducible analysis environments)
-- Linux (basic)
+- Docker (reproducible data environments)
+- Linux (CLI, basic ops)
+- CI-friendly workflows for data pipelines
 
 ---
 
-## 📂 Featured Analytics Projects (in progress)
-> Repositories will be added as projects are completed.
+## 📂 Featured Data Engineering Projects
+> Repositories are added as projects mature and reach production-grade quality.
 
-- **End-to-End Analytics Pipeline**  
-  Raw → staging → analytics marts with documented metrics and data quality checks
+- **Production-Style Data Platform**  
+  Raw → staging → curated layers with idempotent processing, schema validation, and auditability.
 
-- **SQL Business Case Studies**  
-  Cohort analysis, funnels, retention, KPI tracking, and query optimisation
+- **Incremental ETL & Backfill Framework**  
+  Pipelines supporting late data, historical reprocessing, and deterministic outputs without duplication.
 
-- **Event & Behavioural Analysis**  
-  Event-based datasets analysed for trends, anomalies, and user behaviour patterns
+- **Analytics-Ready Data Models**  
+  Fact and dimension tables optimised for reporting, trend analysis, and long-term consistency.
 
 ---
 
 ## 🧩 How I work
-- Start with the **business problem**, not the tool
-- Prefer **simple, readable SQL** over over-engineered solutions
-- Validate data before trusting outputs
-- Focus on **insights that drive action**, not just dashboards
-- Document assumptions so stakeholders trust the numbers
+- Treat data pipelines as **production systems**, not scripts
+- Assume **upstream data will break** and design for it
+- Prefer **simple, maintainable designs** over fragile complexity
+- Validate data before trusting metrics or reports
+- Optimise for **reliability first**, then performance and cost
+- Document assumptions and contracts so data remains trustworthy over time
 
 ---
 
@@ -67,4 +77,4 @@ I turn complex data into **clear, actionable insights** using a **SQL-first anal
 
 ---
 
-⭐ *Always learning. Always improving analysis.*
+⭐ *Building data systems teams can trust — even when things go wrong.*
